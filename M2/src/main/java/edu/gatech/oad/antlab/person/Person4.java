@@ -6,7 +6,7 @@ package edu.gatech.oad.antlab.person;
  *  modified string 
  *  
  *  @author Elmer
- *  @vHELLO
+ *  @version 4.2
  */
 public class Person4 {
   /** Holds the persons real name */
@@ -17,7 +17,7 @@ public class Person4 {
      * @param pname the person's real name
      */
   public Person4(String pname) {
-    name = pname              HI;
+    name = pname;
   }
     /**
      * This method should return a string
