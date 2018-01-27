@@ -5,8 +5,8 @@ package edu.gatech.oad.antlab.person;
  *  returns their name and a
  *  modified string 
  *  
- *  @author Bob
- *  @version 1.1
+ *  @author Elmer
+ *  @vHELLO
  */
 public class Person4 {
   /** Holds the persons real name */
@@ -17,7 +17,7 @@ public class Person4 {
      * @param pname the person's real name
      */
   public Person4(String pname) {
-    name = pname;
+    name = pname              HI;
   }
     /**
      * This method should return a string
