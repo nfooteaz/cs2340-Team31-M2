@@ -30,8 +30,8 @@ public class Person1 {
 	 * @return the modified string
 	 */
 	private String calc(String input) {
-	  
-	  return "lol";
+	  String happy = "happy"
+	  return happy;
 	}
 	
 	/**
