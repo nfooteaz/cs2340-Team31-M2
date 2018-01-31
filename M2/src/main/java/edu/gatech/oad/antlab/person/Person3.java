@@ -45,7 +45,6 @@ public class Person3 {
         //Person 3 put your implementation here
         String reversed = "";
         
-        
         return reversed;
 	}
 }
