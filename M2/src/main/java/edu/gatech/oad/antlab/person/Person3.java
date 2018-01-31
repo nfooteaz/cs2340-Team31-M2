@@ -45,8 +45,6 @@ public class Person3 {
         //Person 3 put your implementation here
         String reversed = "";
         
-        for (int i = name.length(); i >= 0; i--) {
-            reversed += Character.toString((name.charAt(i)));
-        }
+        return reversed;
 	}
 }
